@@ -1,0 +1,8 @@
+https://www.wikipedia.org/
+https://en.wikipedia.org/wiki/Main_Page
+https://www.python.org/
+https://www.mozilla.org/
+https://www.gnu.org/
+https://www.rutgers.edu/
+https://www.w3.org/
+https://example.com/
